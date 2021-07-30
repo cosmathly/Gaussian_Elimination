@@ -1,2 +1,2 @@
-# File_Transfer
-> this repo is used to transform files cross stage such as transforming file from Wondows to Linux.
+# Gaussian_Elimination
+> this repo is for the implementation of Gauss Elimination.
